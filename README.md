@@ -1,2 +1,3 @@
 # QABootcampDesignPattern
-Design pattern using Owasp juice shop application
+Run tests:
+mvn clean test -Dbrowser=CHROME
